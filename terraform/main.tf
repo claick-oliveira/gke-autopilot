@@ -39,6 +39,6 @@ module "gke" {
 
 module "artifactregistry" {
   source        = "./modules/artifactregistry"
-  repository_id = "custom-metrics"
+  repository_id = "gke-autopilot"
   gcp_region    = var.gcp_region
 }
