@@ -4,7 +4,7 @@ This repository is an example how to use autopilot in GKE. If you want yo read m
 
 - [Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview)
 
-GKE Autopilot is a mode of operation in GKE in which Google manages your cluster configuration, including your nodes, scaling, security, and other preconfigured settings. Autopilot clusters are optimized to run most production workloads, and provision compute resources based on your Kubernetes manifests. The streamlined configuration follows GKE best practices and recommendations for cluster and workload setup, scalability, and security. For a list of built-in settings, refer to the [Autopilot and Standard comparison table](https://cloud.google.com/kubernetes-engine/docs/resources/autopilot-standard-feature-compariso).
+GKE Autopilot is a mode of operation in GKE in which Google manages your cluster configuration, including your nodes, scaling, security, and other preconfigured settings. Autopilot clusters are optimized to run most production workloads, and provision compute resources based on your Kubernetes manifests. The streamlined configuration follows GKE best practices and recommendations for cluster and workload setup, scalability, and security. For a list of built-in settings, refer to the [Autopilot and Standard comparison table](https://cloud.google.com/kubernetes-engine/docs/resources/autopilot-standard-feature-comparison).
 
 ## Getting Started
 
